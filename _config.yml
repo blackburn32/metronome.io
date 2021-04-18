@@ -23,7 +23,7 @@ github_username:  alexblackburn32@gmail.com
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
